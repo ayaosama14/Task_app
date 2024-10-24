@@ -1,16 +1,20 @@
-# sqflite_with_cubit
+# Task Management App
 
-A new Flutter project.
+This Task Management App is built using Flutter, leveraging the Cubit state management pattern and SQFlite for local database storage. The app allows users to create, read, update, and delete tasks efficiently.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Task Creation**: Add new tasks with titles and descriptions.
+- **Task List**: View all tasks in a list format.
+- **Task Editing**: Update existing tasks easily.
+- **Task Deletion**: Remove tasks from the list.
+- **Persistent Storage**: Store tasks locally using SQFlite.
+- **Responsive UI**: Optimized for mobile and tablet screens.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: A UI toolkit for building natively compiled applications.
+- **Cubit**: A lightweight state management solution for Flutter.
+- **SQFlite**: A Flutter plugin for SQLite, providing local storage capabilities.
+- **Dart**: The programming language used for the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
