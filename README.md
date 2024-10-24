@@ -16,5 +16,6 @@ This Task Management App is built using Flutter, leveraging the Cubit state mana
 - **Flutter**: A UI toolkit for building natively compiled applications.
 - **Cubit**: A lightweight state management solution for Flutter.
 - **SQFlite**: A Flutter plugin for SQLite, providing local storage capabilities.
+- **MVVm**: App Arch .
 - **Dart**: The programming language used for the app.
 
